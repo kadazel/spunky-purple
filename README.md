@@ -1,16 +1,8 @@
-# spunky-purple README
+## Spunky Purple for vscode
+For people who like purple and Dark+
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This theme features gentle purple accents, custom ice cream pastel syntax and a bright green terminal.
+  
+<picture>
+  <img alt="Clouds.png" src="preview.png">
+</picture>
