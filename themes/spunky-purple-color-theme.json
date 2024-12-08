@@ -1995,7 +1995,7 @@
     "terminal.ansiMagenta": "#bc3fbc",
     "terminal.ansiRed": "#cd3131",
     "terminal.ansiWhite": "#cbcbcb",
-    "terminal.ansiYellow": "#e5e510",
+    "terminal.ansiYellow": "#ffcb00",
     "breadcrumb.background": "#0a080a56",
     "breadcrumb.foreground": "#cccccccc",
     "breadcrumb.focusForeground": "#e0e0e0",
