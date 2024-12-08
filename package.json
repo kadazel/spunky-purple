@@ -16,6 +16,10 @@
     "dark",
     "purple"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kadazel"
+  },
   "contributes": {
     "themes": [
       {
