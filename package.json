@@ -1,0 +1,21 @@
+{
+  "name": "spunky-purple",
+  "displayName": "Spunky Purple",
+  "description": "Subtle purple editor with fun syntax colours and green terminal.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spunky Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spunky Purple-color-theme.json"
+      }
+    ]
+  }
+}
