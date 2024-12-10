@@ -5,7 +5,7 @@
   "version": "0.0.2",
   "publisher": "kadazel",
   "engines": {
-    "vscode": "^1.95.0"
+    "vscode": "^1.33.0"
   },
   "categories": [
     "Themes"
@@ -20,6 +20,7 @@
     "type": "git",
     "url": "https://github.com/kadazel"
   },
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
