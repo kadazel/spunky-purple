@@ -2,7 +2,7 @@
   "name": "spunky-purple",
   "displayName": "Spunky Purple",
   "description": "Subtle purple editor with fun syntax colours and green terminal.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "kadazel",
   "engines": {
     "vscode": "^1.95.0"
